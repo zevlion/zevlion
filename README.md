@@ -19,7 +19,11 @@ I operate on the principle that technical mastery is a moral obligation to the c
 If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry.
 — **Martin Luther King Jr.**
 
-Principles in Practice$$E = \sum (C \cdot I)$$Where:
+Principles in Practice 
+
+$$E = \sum (C \cdot I)$$ 
+
+Where:
 
 $E$ represents Impact (Excellence)
 
