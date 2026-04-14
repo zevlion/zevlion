@@ -2,15 +2,11 @@
 
 I am a **Philomathic Techne**—a builder driven by the love of learning and the discipline of craft. As a software engineering student and financial trader, I engineer high-performance web applications, CLI tools, and microservices.
 
----
-
 ### Specializations
 
-- **Backend Architecture:** Developing robust microservices and browserless automation solutions, primarily utilizing **Go** for its concurrency primitives and performance.
-- **Full-Stack Development:** Engineering web applications and analytical tools that bridge the gap between raw data and actionable insights.
-- **Trading Systems:** Building custom analytical software to evaluate market structure, volume profile, and price action, moving beyond standard retail indicators.
-
----
+- *Backend Architecture*
+- *Full-Stack Development*
+- *Trading Systems*
 
 ### Philosophy
 
