@@ -1,6 +1,6 @@
 ## Philomathic Techne
 
-I am a **Philomathic Techne**—a builder driven by the love of learning and the discipline of craft. As a software engineering student and financial trader, I engineer high-performance web applications, CLI tools, and microservices.
+I am a builder driven by the love of learning and the discipline of craft. As a software engineering student and financial trader, I engineer web applications, CLI tools, and microservices.
 
 ### Specializations
 
